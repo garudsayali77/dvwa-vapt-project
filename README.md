@@ -34,7 +34,7 @@ The goal is to identify and exploit vulnerabilities from the **OWASP Top 10**.
 * **Payload:** `1' OR '1'='1`
 * **Impact:** Unauthorized access to database, data leakage
 
-![SQL Injection](Snapshots/sql.jpg)
+![SQL Injection](DVWA-VAPT-Project/Snapshots/sql.jpg)
 
 ---
 
@@ -43,13 +43,12 @@ The goal is to identify and exploit vulnerabilities from the **OWASP Top 10**.
 * **Payload:** `<script>alert('XSS')</script>`
 * **Impact:** Execution of malicious JavaScript in user browser
 
-![XSS](Snapshots/xss.jpg)
+![XSS](DVWA-VAPT-Project/Snapshots/xss.jpg)
 
 ---
 
 ## 📊 Scan Report
-
-[Download OWASP ZAP Report](Scanning_Report.pdf)
+👉 [Download OWASP ZAP Report](DVWA-VAPT-Project/Scanning_Report.pdf)
 
 ---
 
